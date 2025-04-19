@@ -1,2 +1,3 @@
-# go-supabase-setup
-Supabase setup using Golang
+Supabase setup using Golang.
+
+Migrated to TS.
